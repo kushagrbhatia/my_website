@@ -1,0 +1,48 @@
+HTML boilerplate
+structure of html
+start off with when you create a new html file
+
+
+1st thing doctype
+<!DOCTYPE html> - tells browser which version of HTML it was written in 
+<html lang = "en"> - root of document, actually HTML code, all going to go in the opening tag, lang = lanugage that webstie is written in
+    <head> area where important information about our website are written but wont be displayed, helps website get rendered 
+        <meta charset = "UTF-8"> - ensures that the chars you use get displayed correctly
+        <title>My Website</title> - name shown on tab
+    </head>
+
+    <body> - inside body element is where we spend majority of our time building the website, this is where the content goes
+       where 'meat' of website lies 
+        <h1>Hello World</h1>
+        
+    </body>
+
+</html> closing tag
+
+shortcut ! + enter
+^ only works if you create a new html file 
+
+boiler plate example: 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> - makes it internet explorer compatabile
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> how the webiste will get displayed
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+<!DOCTYPE html>
+    <bun>
+        <cheese>
+        </cheese>
+        <lettuce></lettuce>
+        <tomato></tomato>
+        <chicken></chicken>
+    </bun>
+</html>
